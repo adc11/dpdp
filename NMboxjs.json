@@ -237,6 +237,52 @@
             "repo": "http://nm66.top/chxx.js",
             "icons": ["http://nm66.top/1.jpg", "http://nm66.top/1.jpg"],
             "script": "http://nm66.top/chxx.js"
+    },{
+            "id": "jsz",
+            "name": "柠檬金手指",
+            "keys": ["jszhd", "jszhd2","jszhd3", "jszhd4","jszhd5", "jszhd6","jszhd7", "jszhd8","jszhd9", "jszhd10","jszhd11","jszhd12", "jszhd13","jszhd14", "jszhd15","jszhd16", "jszhd17","jszhd18", "jszhd19","jszhd20"],
+            "author": "@ningmeng",
+            "settings": [{
+            "id": "jszstatus",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+    },
+    {
+            "id": "jszcount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+    }],
+            "repo": "http://nm66.top/jsz.js",
+            "icons": ["http://nm66.top/1.jpg", "http://nm66.top/1.jpg"],
+            "script": "http://nm66.top/jsz.js"
+    }
+    ,
+     {
+            "id": "tfb",
+            "name": "柠檬推粉宝",
+            "keys": ["tfbhd", "tfbhd2","tfbhd3", "tfbhd4","tfbhd5", "tfbhd6","tfbhd7", "tfbhd8","tfbhd9", "tfbhd10","tfbhd11","tfbhd12", "tfbhd13","tfbhd14", "tfbhd15","tfbhd16", "tfbhd17","tfbhd18", "tfbhd19","tfbhd20"],
+            "author": "@ningmeng",
+            "settings": [{
+            "id": "tfbstatus",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+    },
+    {
+            "id": "tfbcount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+    }],
+            "repo": "http://nm66.top/tfb.js",
+            "icons": ["http://nm66.top/1.jpg", "http://nm66.top/1.jpg"],
+            "script": "http://nm66.top/tfb.js"
     }
   ]
   
